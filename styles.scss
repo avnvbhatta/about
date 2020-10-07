@@ -1,0 +1,34 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.hero{
+    min-height: 100vh;
+    background-color: black;
+    .svg{
+        .breathe{
+            font-family: 'Comfortaa', cursive;
+            color: white;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        svg{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    }
+}
+
+.anime{
+    background-color: black;
+
+    [id^=bird], #eyes   {
+        opacity: 0;
+    }
+}

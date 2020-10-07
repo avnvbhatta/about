@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 675" style="enable-background:new 0 0 1200 675;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{clip-path:url(#SVGID_2_);fill:#FB0331;}
+	.st2{clip-path:url(#SVGID_2_);fill:#FB950A;}
+	.st3{clip-path:url(#SVGID_2_);fill:#FBF409;}
+	.st4{clip-path:url(#SVGID_2_);fill:#53D657;}
+	.st5{clip-path:url(#SVGID_2_);fill:#2EACD9;}
+	.st6{clip-path:url(#SVGID_2_);fill:#A388D1;}
+	.st7{clip-path:url(#SVGID_2_);fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st8{clip-path:url(#SVGID_2_);fill:url(#inside_x5F_ray_1_);}
+</style>
+<g id="Layer_3">
+</g>
+<g id="Layer_2">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="-0.9" y="0" width="1201.9" height="675"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<rect x="-0.9" y="0" class="st0" width="1201.9" height="675"/>
+		<polygon id="ray1" class="st1" points="694.3,283.4 1201.2,354.6 1200.1,374.6 703.9,297.1 		"/>
+		<polygon id="ray2" class="st2" points="703.5,296.6 1202.5,373.8 1201.2,393.6 712.7,310.3 		"/>
+		<polygon id="ray3" class="st3" points="712.6,310.1 1210.3,395.3 1208.7,415.1 721.6,324 		"/>
+		<polygon id="ray4" class="st4" points="721.2,323.7 1217.7,416.2 1215.8,436 730,337.7 		"/>
+		<polygon id="ray5" class="st5" points="730.1,337.7 1225.1,437.5 1222.9,457.3 738.6,351.8 		"/>
+		<polygon id="ray6" class="st6" points="738.4,351.4 1232,457.9 1229.6,477.6 746.8,365.7 		"/>
+		<polygon id="triangle" class="st7" points="618,155 831,520.2 403.8,520.2 		"/>
+		<line id="main_x5F_ray" class="st7" x1="0.2" y1="460.9" x2="519.1" y2="323.7"/>
+		<linearGradient id="inside_x5F_ray_1_" gradientUnits="userSpaceOnUse" x1="518.7" y1="319.6671" x2="604.9609" y2="319.6671">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1218" style="stop-color:#FBFBFB;stop-opacity:0.8904"/>
+			<stop  offset="0.2469" style="stop-color:#EFEFEF;stop-opacity:0.7778"/>
+			<stop  offset="0.3735" style="stop-color:#DADADA;stop-opacity:0.6639"/>
+			<stop  offset="0.5012" style="stop-color:#BDBDBD;stop-opacity:0.549"/>
+			<stop  offset="0.6298" style="stop-color:#989898;stop-opacity:0.4332"/>
+			<stop  offset="0.7591" style="stop-color:#6A6A6A;stop-opacity:0.3168"/>
+			<stop  offset="0.8864" style="stop-color:#363636;stop-opacity:0.2022"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0.1"/>
+		</linearGradient>
+		<path id="inside_x5F_ray" class="st8" d="M524.6,317c26.8-5.2,53.6-10.3,80.4-15.5c-6.7,12.1-13.3,24.2-20,36.3
+			c-22.1-3.4-44.2-6.9-66.3-10.3C520.7,324,522.6,320.5,524.6,317z"/>
+	</g>
+</g>
+</svg>
